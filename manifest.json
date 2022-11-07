@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "Links_Organizer",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "icon"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
